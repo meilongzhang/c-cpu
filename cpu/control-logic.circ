@@ -258,7 +258,7 @@
     </comp>
     <comp lib="0" loc="(1040,3330)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="csr"/>
+      <a name="label" val="cs"/>
       <a name="width" val="6"/>
     </comp>
     <comp lib="0" loc="(110,1250)" name="Constant">
@@ -808,7 +808,7 @@
       <a name="label" val="BrUn"/>
     </comp>
     <comp lib="0" loc="(770,4030)" name="Tunnel">
-      <a name="label" val="csr"/>
+      <a name="label" val="cs"/>
       <a name="width" val="6"/>
     </comp>
     <comp lib="0" loc="(790,1080)" name="Tunnel">
