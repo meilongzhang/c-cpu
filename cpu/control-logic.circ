@@ -458,7 +458,7 @@
       <a name="width" val="7"/>
     </comp>
     <comp lib="0" loc="(190,1360)" name="Tunnel">
-      <a name="label" val="opcode"/>
+      <a name="label" val="op"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="0" loc="(200,210)" name="Pin">
@@ -804,9 +804,6 @@
       <a name="facing" val="west"/>
       <a name="incoming" val="6"/>
     </comp>
-    <comp lib="0" loc="(750,3140)" name="Tunnel">
-      <a name="label" val="BrUn"/>
-    </comp>
     <comp lib="0" loc="(770,4030)" name="Tunnel">
       <a name="label" val="cs"/>
       <a name="width" val="6"/>
@@ -860,7 +857,7 @@
     </comp>
     <comp lib="0" loc="(850,3350)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="opcode"/>
+      <a name="label" val="op"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="0" loc="(860,3330)" name="Constant">
@@ -993,7 +990,6 @@
     <comp lib="1" loc="(730,2440)" name="AND Gate"/>
     <comp lib="1" loc="(730,2510)" name="AND Gate"/>
     <comp lib="1" loc="(730,2580)" name="AND Gate"/>
-    <comp lib="1" loc="(730,3140)" name="OR Gate"/>
     <comp lib="1" loc="(740,2360)" name="AND Gate"/>
     <comp lib="1" loc="(740,2650)" name="AND Gate"/>
     <comp lib="1" loc="(740,2720)" name="AND Gate"/>
@@ -1635,9 +1631,7 @@
     <wire from="(590,230)" to="(600,230)"/>
     <wire from="(590,2700)" to="(590,3070)"/>
     <wire from="(590,2700)" to="(690,2700)"/>
-    <wire from="(590,3070)" to="(590,3160)"/>
     <wire from="(590,3070)" to="(730,3070)"/>
-    <wire from="(590,3160)" to="(680,3160)"/>
     <wire from="(590,3990)" to="(590,4030)"/>
     <wire from="(590,4030)" to="(620,4030)"/>
     <wire from="(590,4040)" to="(590,4070)"/>
@@ -1645,9 +1639,7 @@
     <wire from="(590,480)" to="(620,480)"/>
     <wire from="(600,2630)" to="(600,3060)"/>
     <wire from="(600,2630)" to="(690,2630)"/>
-    <wire from="(600,3060)" to="(600,3120)"/>
     <wire from="(600,3060)" to="(730,3060)"/>
-    <wire from="(600,3120)" to="(680,3120)"/>
     <wire from="(610,1080)" to="(790,1080)"/>
     <wire from="(610,2560)" to="(610,3050)"/>
     <wire from="(610,2560)" to="(680,2560)"/>
@@ -1719,7 +1711,6 @@
     <wire from="(730,2530)" to="(780,2530)"/>
     <wire from="(730,2550)" to="(730,2580)"/>
     <wire from="(730,2550)" to="(780,2550)"/>
-    <wire from="(730,3140)" to="(750,3140)"/>
     <wire from="(730,4030)" to="(770,4030)"/>
     <wire from="(740,2360)" to="(750,2360)"/>
     <wire from="(740,2440)" to="(740,2520)"/>
