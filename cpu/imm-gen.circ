@@ -467,6 +467,7 @@
     <comp lib="0" loc="(440,690)" name="Bit Extender">
       <a name="in_width" val="21"/>
       <a name="out_width" val="32"/>
+      <a name="type" val="zero"/>
     </comp>
     <comp lib="0" loc="(450,760)" name="Splitter">
       <a name="appear" val="center"/>
